@@ -1,0 +1,46 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-stylesheet type="text/xsl" href="https://media.rss.com/style.xsl"?>
+<rss xmlns:podcast="https://podcastindex.org/namespace/1.0" xmlns:itunes="http://www.itunes.com/dtds/podcast-1.0.dtd" xmlns:content="http://purl.org/rss/1.0/modules/content/" xmlns:atom="http://www.w3.org/2005/Atom" xml:lang="en" version="2.0">
+  <channel>
+    <title><![CDATA[prrag]]></title>
+    <link>https://rss.com/podcasts/practical-spirituality1</link>
+    <atom:link href="https://media.rss.com/practical-spirituality1/feed.xml" rel="self" type="application/rss+xml"/>
+    <atom:link rel="hub" href="https://hub.livewire.io/"/>
+    <description><![CDATA[<p>deesf</p>]]></description>
+    <generator>RSS.com v2.7.2</generator>
+    <lastBuildDate>Thu, 13 Apr 2023 15:25:32 GMT</lastBuildDate>
+    <language>en</language>
+    <copyright><![CDATA[tia2023]]></copyright>
+    <itunes:image href="https://assets.rss.com/images/no-cover-1400.jpg"/>
+    <image>
+      <url>https://assets.rss.com/images/no-cover-1400.jpg</url>
+      <title>prrag</title>
+      <link>https://rss.com/podcasts/practical-spirituality1</link>
+    </image>
+    <podcast:locked>yes</podcast:locked>
+    <itunes:author>tia summers</itunes:author>
+    <itunes:owner>
+      <itunes:name>tia summers</itunes:name>
+    </itunes:owner>
+    <itunes:explicit>no</itunes:explicit>
+    <itunes:type>episodic</itunes:type>
+    <itunes:category text="Business">
+      <itunes:category text="Careers"/>
+    </itunes:category>
+    <item>
+      <title><![CDATA[title]]></title>
+      <itunes:title><![CDATA[title]]></itunes:title>
+      <description><![CDATA[heelo]]></description>
+      <link>https://rss.com/podcasts/practical-spirituality1/906701</link>
+      <enclosure url="https://media.rss.com/practical-spirituality1/2023_04_13_15_25_20_ebdf8844-6a9f-47fe-8a83-81607065341a.mp3" length="4131887" type="audio/mpeg"/>
+      <guid isPermaLink="false">cc161cc3-c8a5-4d96-abf3-4e8a1abe4b40</guid>
+      <itunes:image href="https://assets.rss.com/images/no-cover-1400.jpg"/>
+      <itunes:duration>258</itunes:duration>
+      <itunes:episodeType>full</itunes:episodeType>
+      <itunes:episode>1</itunes:episode>
+      <itunes:season>1</itunes:season>
+      <itunes:explicit>no</itunes:explicit>
+      <pubDate>Thu, 13 Apr 2023 15:25:32 GMT</pubDate>
+    </item>
+  </channel>
+</rss>
